@@ -1,2 +1,0 @@
-# procrastinate-project
-Landing page
